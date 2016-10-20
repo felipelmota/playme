@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360124618413",
+    "firebase_url": "https://playme-65265.firebaseio.com",
+    "project_id": "playme-65265",
+    "storage_bucket": "playme-65265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360124618413:android:69bc815638a3fec3",
+        "android_client_info": {
+          "package_name": "com.mobstudio.playme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360124618413-n29odic61lmls6qg65jo3jgkbde2llpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPXvTXPZdZ6WUm4PzjpFKuueBSSZvm64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
